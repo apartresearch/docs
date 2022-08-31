@@ -51,15 +51,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: true,
+      },
       navbar: {
         title: "Apart Research Workbook",
         logo: {
           alt: "Apart Logo",
           src: "img/ideas_icon.png",
-        },
-        colorMode: {
-          defaultMode: "dark",
-          disableSwitch: true,
         },
         items: [
           // {
