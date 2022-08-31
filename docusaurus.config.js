@@ -9,7 +9,7 @@ const config = {
   title: "Open Workbook",
   tagline: "Public documentation for Apart Research",
   url: "https://docs.apartresearch.com",
-  baseUrl: "/docs/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
