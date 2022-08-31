@@ -74,8 +74,16 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Intro to the workbook",
-                to: "/docs/intro",
+                label: "Documentation",
+                to: "/intro",
+              },
+              {
+                label: "Strategy",
+                to: "/strategy/",
+              },
+              {
+                label: "Workbook",
+                to: "/workbook/",
               },
             ],
           },
