@@ -7,4 +7,5 @@ slug: /
 
 ## Table of contents
 
-- [Apart Research strategy]()
+- [Apart Research's strategy documents](/docs/strategy/)
+- [Apart Research's workbook](/docs/workbook/)
