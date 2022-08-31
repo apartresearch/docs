@@ -57,6 +57,10 @@ const config = {
           alt: "Apart Logo",
           src: "img/ideas_icon.png",
         },
+        colorMode: {
+          defaultMode: "dark",
+          disableSwitch: true,
+        },
         items: [
           // {
           //   type: "doc",
@@ -122,8 +126,6 @@ const config = {
         theme: require("prism-react-renderer/themes/github"),
         darkTheme: require("prism-react-renderer/themes/dracula"),
         defaultLanguage: "python",
-        defaultMode: "dark",
-        disableSwitch: true,
       },
     }),
 };
