@@ -122,6 +122,8 @@ const config = {
         theme: require("prism-react-renderer/themes/github"),
         darkTheme: require("prism-react-renderer/themes/dracula"),
         defaultLanguage: "python",
+        defaultMode: "dark",
+        disableSwitch: true,
       },
     }),
 };
