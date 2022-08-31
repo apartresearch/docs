@@ -1,6 +1,5 @@
 ---
-label: Strategy
-title: Apart's Strategy
+title: Strategy
 ---
 
 # This is the intro to the Strategy
