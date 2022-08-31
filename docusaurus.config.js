@@ -75,7 +75,7 @@ const config = {
             items: [
               {
                 label: "Documentation",
-                to: "/intro",
+                to: "/",
               },
               {
                 label: "Strategy",
