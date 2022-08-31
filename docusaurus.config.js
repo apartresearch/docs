@@ -32,7 +32,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/apartresearch/docs",
+          editUrl: "https://github.com/apartresearch/docs/tree/main/",
         },
         blog: false,
         theme: {
