@@ -58,10 +58,10 @@ const config = {
           src: "img/ideas_icon.png",
         },
         items: [
-          {
-            type: "doc",
-            docId: "intro",
-          },
+          // {
+          //   type: "doc",
+          //   docId: "Intro",
+          // },
           {
             href: "https://github.com/apartresearch/docs",
             label: "GitHub",
