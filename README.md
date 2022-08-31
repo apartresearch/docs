@@ -1,19 +1,11 @@
-# Docusaurus 2
+# Apart Research Docs
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
+This repository contains the workbook and strategy docunmentation for [Apart Research](https://apartresearch.com).
 
-## Deploy Your Own
+![Vercel](https://vercelbadge.vercel.app/api/apartresearch/docs)
 
-Deploy your own Docusaurus project with Vercel.
+Visit the website on [docs.apartresearch.com](https://docs.apartresearch.com).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
+### How to contribute
 
-_Live Example: https://docusaurus-2-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-npx create-docusaurus@latest my-website classic
-```
+Create a pull request that suggests an update to the [strategy](https://docs.apartresearch.com/strategy) or [workbook](https://docs.apartresearch.com/workbook). **If these are accepted, they will permanently change how Apart Research is operated**.
