@@ -8,6 +8,8 @@ title: Internal tools
 
 - [Job application monitoring system](https://apart.retool.com/embedded/public/c1bf6de0-dd71-4039-a392-3eba0e4562c1) (password protected)
 - [AI Safety Ideas](https://aisafetyideas.com)
+- [Apart Research blog](https://apartresearch.com/blog)
+- [Alignment Markets](https://alignmentmarkets.com)
 
 ## Project management & infrastructure
 
@@ -28,3 +30,8 @@ title: Internal tools
 - [Zapier](https://zapier.com/app/dashboard)
 - [Retool](https://apart.retool.com/)
 - [HelloSign](https://app.hellosign.com/)
+- [Frame.io](https://app.frame.io/projects/9e5ff1fe-311a-4b33-bcff-6a303624af20)
+
+## Other links
+
+- [AlignmentForum](https://alignmentforum.com)
