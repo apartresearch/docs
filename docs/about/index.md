@@ -6,8 +6,8 @@ title: About
 
 #### Address:
 
-> 2810 N Church St PMB 45424
-> Wilmington, DE 19802 US
+2810 N Church St PMB 45424
+Wilmington, DE 19802 US
 
 #### Contact:
 
