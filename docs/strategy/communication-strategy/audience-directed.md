@@ -2,28 +2,6 @@
 title: Audience directed
 ---
 
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.546 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Sep 30 2022 04:39:34 GMT-0700 (PDT)
-* Source doc: Workbook doc
-* This is a partial selection. Check to make sure intra-doc links work.
------>
-
 ### Audience directed
 
 Apart is an actor in different spheres where different communication is needed. Therefore, the communication team always considers the most appropriate channel for delivering new content.
