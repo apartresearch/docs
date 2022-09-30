@@ -2,7 +2,7 @@
 title: Strategy
 ---
 
-# The Apart Research Strategy
+# Core strategic values
 
 Apart Research wants to facilitate and support the field of AI Safety (abbr. AIS), but we are also an organization that aims to raise awareness on AI Safety in the wider public.
 
