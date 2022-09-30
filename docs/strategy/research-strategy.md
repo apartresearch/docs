@@ -40,7 +40,7 @@ Apart expects its employees to stay updated on the ideas of the AIS-community an
 
 This ensures an embedded collaboration in the field, which Apart aims to accomplish.
 
-![alt_text](img/research-strategy.png "image_tooltip")
+![alt_text](/img/research-strategy.png "image_tooltip")
 
 _Fig 2. Apart's Research Strategy sketched_
 

@@ -29,7 +29,7 @@ The communication group presents Apart to the broader public. Their main respons
 
 Below is a diagram of the working groups and their sketched work processes.
 
-![alt_text](img/org-chart.png "image_tooltip")
+![alt_text](/img/org-chart.png "image_tooltip")
 
 _Fig 1. Apart's working groups' processes sketched_
 

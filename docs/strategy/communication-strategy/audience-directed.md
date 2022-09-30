@@ -62,6 +62,6 @@ Channels: No current channels for this type of communication
 
 Wishlist: Danish media (Zetland, DR, TV 2), international media, audio, video, and text, podcast.
 
-![alt_text](img/audience-directed.png "Audience directed")
+![alt_text](/img/audience-directed.png "Audience directed")
 
 Fig 3. The Three Levels of Apart's communication strategy. Please note, that all levels are complimentary
