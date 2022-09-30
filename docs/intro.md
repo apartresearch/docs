@@ -6,7 +6,7 @@ title: Documentation
 
 # Apart Research Documentation
 
-If something is written in these docs, that is how Apart Research functions. You are welcome to create pull requests that change our strategy.
+This workbook is developed to facilitate the asynchronous workflow of Apart Research. The information in this book is publically available, so everyone can inspect our methods. The workbook is inspired by [GitLab’s open Handbook](https://about.gitlab.com/handbook/).
 
 ## Table of contents
 
