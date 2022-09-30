@@ -15,9 +15,9 @@ Apart believes that a key component of enhanced collaboration starts with commun
 
 Therefore, Apart Research’s main goal is to communicate as much information as possible in the best way. Our communication-strategy rests on 3 pillars as seen below:
 
-1. [Consistency](consistency.md)
-2. [Audience directed](audience-directed.md)
-3. [Knowledge sharing is key](knowledge-sharing.md)
+1. [Consistency](./consistency.md)
+2. [Audience directed](./audience-directed.md)
+3. [Knowledge sharing is key](./knowledge-sharing.md)
 
 <!-- Yay, no errors, warnings, or alerts! -->
 
