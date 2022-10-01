@@ -6,7 +6,7 @@ title: Communication strategy
 
 _There is a reason for starting collaboration as early as possible, namely to take advantage of the veil of ignorance that hides from our view any specific information about which individual project will get to superintelligence first._
 
-<p style="text-align: right">
+<p style={{textAlign: "right"}}>
 Nick Boström, Superintelligence</p>
 
 Apart Research wants to facilitate and support the field of AI Safety, and we believe in collaboration before competition. As Nick Boström describes collaboration in his book, Superintelligence, a competition for the first AGI poses a far greater risk than AGI developed in cooperation.
