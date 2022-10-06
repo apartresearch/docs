@@ -1,6 +1,7 @@
 ---
 title: Work processes
 sidebar_position: 3
+slug: workbook
 ---
 
 <!-- Yay, no errors, warnings, or alerts! -->
