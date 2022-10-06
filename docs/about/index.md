@@ -7,7 +7,7 @@ sidebar_position: 7
 
 ## About Apart Research
 
-**A\*PART** is an independent machine learning safety research organization working for a future in a benevolent relationship with AI.
+**Apart** is an independent machine learning safety research organization working for a future in a benevolent relationship with AI.
 
 We measure the progress towards safe AGI and share the future paths for AI safety.
 

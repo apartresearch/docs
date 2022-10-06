@@ -1,5 +1,6 @@
 ---
 title: Internal tools
+sidebar_position: 5
 ---
 
 # Internal tools

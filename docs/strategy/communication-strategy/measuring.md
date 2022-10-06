@@ -1,5 +1,6 @@
 ---
 title: Measuring communication
+sidebar_position: 4
 ---
 
 <!-- Yay, no errors, warnings, or alerts! -->

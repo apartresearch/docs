@@ -1,5 +1,6 @@
 ---
 title: Knowledge sharing
+sidebar_position: 3
 ---
 
 <!-- Yay, no errors, warnings, or alerts! -->

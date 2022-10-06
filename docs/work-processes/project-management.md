@@ -1,5 +1,6 @@
 ---
 title: Project management
+sidebar_position: 1
 ---
 
 <!-- Yay, no errors, warnings, or alerts! -->

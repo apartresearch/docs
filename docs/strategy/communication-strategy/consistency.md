@@ -1,5 +1,6 @@
 ---
 title: Consistency
+sidebar_position: 1
 ---
 
 <!-----

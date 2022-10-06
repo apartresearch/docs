@@ -1,5 +1,6 @@
 ---
 title: Internal communication
+sidebar_position: 2
 ---
 
 <!-- Yay, no errors, warnings, or alerts! -->
