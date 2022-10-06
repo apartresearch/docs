@@ -1,5 +1,6 @@
 ---
 title: Strategy
+sidebar_position: 2
 ---
 
 # Core strategic values

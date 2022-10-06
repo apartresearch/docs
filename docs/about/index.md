@@ -1,5 +1,6 @@
 ---
 title: About
+sidebar_position: 7
 ---
 
 <!-- Yay, no errors, warnings, or alerts! -->
