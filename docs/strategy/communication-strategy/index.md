@@ -1,5 +1,6 @@
 ---
 title: Communication strategy
+sidebar_position: 2
 ---
 
 ## Communication Strategy

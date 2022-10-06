@@ -1,5 +1,6 @@
 ---
 title: Research strategy
+sidebar_position: 1
 ---
 
 ## Research strategy

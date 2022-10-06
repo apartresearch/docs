@@ -1,5 +1,6 @@
 ---
 title: Organizational setup
+sidebar_position: 3
 ---
 
 ## Organizational setup
